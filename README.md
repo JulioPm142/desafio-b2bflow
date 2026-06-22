@@ -16,7 +16,7 @@ Siga os comandos abaixo no seu terminal para clonar o repositório, instalar as 
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/JulioPm142/desafio-b2bflow.git](https://github.com/JulioPm142/desafio-b2bflow.git)
+git clone https://github.com/JulioPm142/desafio-b2bflow.git
 
 # Entrar no diretório do projeto (opcional, mas recomendado se já não estiver nele)
 cd desafio-b2bflow
